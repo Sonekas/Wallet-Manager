@@ -1,0 +1,129 @@
+[10/07/2025 15:32:30] Tema alterado para: clam
+[10/07/2025 15:33:18] Tema alterado para: alt
+[10/07/2025 15:33:25] Tema alterado para: clam
+[10/07/2025 15:37:30] Iniciando atualização em segundo plano...
+[10/07/2025 15:37:30] Atualização em segundo plano concluída.
+[10/07/2025 15:42:30] Iniciando atualização em segundo plano...
+[10/07/2025 15:42:30] Atualização em segundo plano concluída.
+[10/07/2025 15:47:30] Iniciando atualização em segundo plano...
+[10/07/2025 15:47:30] Atualização em segundo plano concluída.
+[10/07/2025 15:52:30] Iniciando atualização em segundo plano...
+[10/07/2025 15:52:30] Atualização em segundo plano concluída.
+[10/07/2025 15:57:30] Iniciando atualização em segundo plano...
+[10/07/2025 15:57:30] Atualização em segundo plano concluída.
+[11/07/2025 05:19:42] Tema alterado para: clam
+[11/07/2025 05:19:58] Ativo BBAS3 adicionado automaticamente à carteira (Qtd: 11.0, Preço médio: R$ 25.47)
+[11/07/2025 05:19:58] Ativo BCRI11 adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 66.60)
+[11/07/2025 05:19:58] Ativo BTLG11 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 100.00)
+[11/07/2025 05:19:58] Ativo CMIG4 adicionado automaticamente à carteira (Qtd: 10.0, Preço médio: R$ 10.87)
+[11/07/2025 05:19:58] Ativo CPFE3 adicionado automaticamente à carteira (Qtd: 12.0, Preço médio: R$ 40.53)
+[11/07/2025 05:19:58] Ativo CSMG3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 27.46)
+[11/07/2025 05:19:58] Ativo EGIE3 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 40.59)
+[11/07/2025 05:19:58] Ativo HAPV3 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 2.83)
+[11/07/2025 05:19:58] Ativo HGLG11 adicionado automaticamente à carteira (Qtd: 4.0, Preço médio: R$ 157.41)
+[11/07/2025 05:19:58] Ativo HGRE11 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 114.50)
+[11/07/2025 05:19:58] Ativo HGRU11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 124.61)
+[11/07/2025 05:19:58] Ativo KNCR11 adicionado automaticamente à carteira (Qtd: 6.0, Preço médio: R$ 104.12)
+[11/07/2025 05:19:58] Ativo LWSA3F adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 4.16)
+[11/07/2025 05:19:58] Ativo MELK3 adicionado automaticamente à carteira (Qtd: 12.0, Preço médio: R$ 3.32)
+[11/07/2025 05:19:58] Ativo MXRF11 adicionado automaticamente à carteira (Qtd: 14.0, Preço médio: R$ 9.38)
+[11/07/2025 05:19:58] Ativo NEOE3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 24.90)
+[11/07/2025 05:19:58] Ativo ODPV3 adicionado automaticamente à carteira (Qtd: 3.0, Preço médio: R$ 11.61)
+[11/07/2025 05:19:58] Ativo POSI3 adicionado automaticamente à carteira (Qtd: 7.0, Preço médio: R$ 4.43)
+[11/07/2025 05:19:58] Ativo PRIO3 adicionado automaticamente à carteira (Qtd: 7.0, Preço médio: R$ 43.49)
+[11/07/2025 05:19:58] Ativo PSSA3 adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 53.63)
+[11/07/2025 05:19:58] Ativo RECR11 adicionado automaticamente à carteira (Qtd: 3.0, Preço médio: R$ 83.90)
+[11/07/2025 05:19:58] Ativo RECT11 adicionado automaticamente à carteira (Qtd: 17.0, Preço médio: R$ 38.39)
+[11/07/2025 05:19:58] Ativo ROMI3 adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 9.04)
+[11/07/2025 05:19:58] Ativo SMTO3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 19.36)
+[11/07/2025 05:19:58] Ativo UGPA3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 17.28)
+[11/07/2025 05:19:58] Ativo VALE3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 51.24)
+[11/07/2025 05:19:58] Ativo VILG11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 84.65)
+[11/07/2025 05:19:58] Ativo VISC11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 104.00)
+[11/07/2025 05:19:58] Ativo VOO adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 1712.00)
+[11/07/2025 05:19:58] Ativo WEGE3 adicionado automaticamente à carteira (Qtd: 8.0, Preço médio: R$ 41.85)
+[11/07/2025 05:19:58] Ativo XPML11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 103.19)
+[11/07/2025 05:19:58] 31 ativos adicionados automaticamente à carteira após importação.
+[11/07/2025 05:19:59] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:20:00] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:20:00] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:20:01] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:20:01] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:20:02] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:20:03] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:20:03] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:20:04] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:20:06] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 05:20:10] Dados importados de JSON: ('C:/Users/Pedro/Downloads/carteira_atual.json',)
+[11/07/2025 05:20:10] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:20:11] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:20:12] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:20:12] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:20:13] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:20:13] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:20:14] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:20:15] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:20:15] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:20:17] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 05:20:39] Volatilidade de BBAS3: 0.2303
+[11/07/2025 05:20:41] Beta de BBAS3 vs ^BVSP: 0.7740
+[11/07/2025 05:24:42] Iniciando atualização em segundo plano...
+[11/07/2025 05:24:42] Atualização em segundo plano concluída.
+[11/07/2025 05:24:43] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:24:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:24:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:24:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:24:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:24:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:24:46] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:24:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:24:47] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:24:48] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 05:29:42] Iniciando atualização em segundo plano...
+[11/07/2025 05:29:42] Atualização em segundo plano concluída.
+[11/07/2025 05:29:43] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:29:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:29:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:29:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:29:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:29:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:29:47] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:29:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:29:47] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:29:48] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 05:34:42] Iniciando atualização em segundo plano...
+[11/07/2025 05:34:42] Atualização em segundo plano concluída.
+[11/07/2025 05:34:43] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:34:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:34:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:34:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:34:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:34:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:34:47] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:34:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:34:48] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:34:49] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 05:39:42] Iniciando atualização em segundo plano...
+[11/07/2025 05:39:42] Atualização em segundo plano concluída.
+[11/07/2025 05:39:43] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:39:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:39:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:39:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:39:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:39:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:39:47] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:39:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:39:47] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:39:48] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 05:44:42] Iniciando atualização em segundo plano...
+[11/07/2025 05:44:42] Atualização em segundo plano concluída.
+[11/07/2025 05:44:43] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 05:44:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:44:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:44:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:44:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:44:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:44:47] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:44:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:44:48] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:44:49] Alerta: VOO teve variação de -100.00%!

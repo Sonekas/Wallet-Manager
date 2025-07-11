@@ -1,0 +1,841 @@
+[10/07/2025 21:20:29] Tema alterado para: clam
+[10/07/2025 21:25:29] Iniciando atualização em segundo plano...
+[10/07/2025 21:25:29] Atualização em segundo plano concluída.
+[10/07/2025 21:29:33] Tema alterado para: clam
+[10/07/2025 21:33:07] Tema alterado para: clam
+[10/07/2025 21:34:33] Iniciando atualização em segundo plano...
+[10/07/2025 21:34:33] Atualização em segundo plano concluída.
+[10/07/2025 21:34:59] Tema alterado para: clam
+[10/07/2025 21:37:45] Tema alterado para: clam
+[10/07/2025 21:38:07] Iniciando atualização em segundo plano...
+[10/07/2025 21:38:07] Atualização em segundo plano concluída.
+[10/07/2025 21:39:33] Iniciando atualização em segundo plano...
+[10/07/2025 21:39:33] Atualização em segundo plano concluída.
+[10/07/2025 21:39:59] Iniciando atualização em segundo plano...
+[10/07/2025 21:39:59] Atualização em segundo plano concluída.
+[10/07/2025 21:41:13] Tema alterado para: clam
+[10/07/2025 21:46:13] Iniciando atualização em segundo plano...
+[10/07/2025 21:46:13] Atualização em segundo plano concluída.
+[10/07/2025 21:51:13] Iniciando atualização em segundo plano...
+[10/07/2025 21:51:13] Atualização em segundo plano concluída.
+[10/07/2025 21:56:13] Iniciando atualização em segundo plano...
+[10/07/2025 21:56:13] Atualização em segundo plano concluída.
+[10/07/2025 22:00:24] Tema alterado para: clam
+[10/07/2025 22:01:40] Tema alterado para: clam
+[10/07/2025 22:06:40] Iniciando atualização em segundo plano...
+[10/07/2025 22:06:40] Atualização em segundo plano concluída.
+[10/07/2025 22:11:40] Iniciando atualização em segundo plano...
+[10/07/2025 22:11:40] Atualização em segundo plano concluída.
+[10/07/2025 22:16:40] Iniciando atualização em segundo plano...
+[10/07/2025 22:16:40] Atualização em segundo plano concluída.
+[10/07/2025 22:20:07] Tema alterado para: clam
+[10/07/2025 22:22:58] Tema alterado para: clam
+[10/07/2025 22:25:07] Iniciando atualização em segundo plano...
+[10/07/2025 22:25:07] Atualização em segundo plano concluída.
+[10/07/2025 22:29:19] Tema alterado para: clam
+[10/07/2025 22:34:19] Iniciando atualização em segundo plano...
+[10/07/2025 22:34:19] Atualização em segundo plano concluída.
+[10/07/2025 22:36:01] Tema alterado para: clam
+[10/07/2025 22:41:01] Iniciando atualização em segundo plano...
+[10/07/2025 22:41:01] Atualização em segundo plano concluída.
+[10/07/2025 22:46:01] Iniciando atualização em segundo plano...
+[10/07/2025 22:46:01] Atualização em segundo plano concluída.
+[10/07/2025 22:48:45] Tema alterado para: clam
+[10/07/2025 22:50:16] Erro ao importar dados de JSON.
+[10/07/2025 22:52:30] Tema alterado para: clam
+[10/07/2025 22:53:24] Erro ao importar dados de JSON.
+[10/07/2025 22:57:30] Iniciando atualização em segundo plano...
+[10/07/2025 22:57:30] Atualização em segundo plano concluída.
+[10/07/2025 23:01:49] Tema alterado para: clam
+[10/07/2025 23:02:47] Erro ao importar dados de JSON: Erro ao importar arquivo: C:/Users/Pedro/Downloads/carteira_atual.json
+[10/07/2025 23:44:14] Tema alterado para: clam
+[10/07/2025 23:49:14] Iniciando atualização em segundo plano...
+[10/07/2025 23:49:14] Atualização em segundo plano concluída.
+[10/07/2025 23:54:14] Iniciando atualização em segundo plano...
+[10/07/2025 23:54:14] Atualização em segundo plano concluída.
+[10/07/2025 23:59:14] Iniciando atualização em segundo plano...
+[10/07/2025 23:59:14] Atualização em segundo plano concluída.
+[11/07/2025 00:04:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:04:14] Atualização em segundo plano concluída.
+[11/07/2025 00:09:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:09:14] Atualização em segundo plano concluída.
+[11/07/2025 00:14:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:14:14] Atualização em segundo plano concluída.
+[11/07/2025 00:19:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:19:14] Atualização em segundo plano concluída.
+[11/07/2025 00:24:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:24:14] Atualização em segundo plano concluída.
+[11/07/2025 00:29:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:29:14] Atualização em segundo plano concluída.
+[11/07/2025 00:34:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:34:14] Atualização em segundo plano concluída.
+[11/07/2025 00:39:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:39:14] Atualização em segundo plano concluída.
+[11/07/2025 00:44:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:44:14] Atualização em segundo plano concluída.
+[11/07/2025 00:49:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:49:14] Atualização em segundo plano concluída.
+[11/07/2025 00:54:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:54:14] Atualização em segundo plano concluída.
+[11/07/2025 00:59:14] Iniciando atualização em segundo plano...
+[11/07/2025 00:59:14] Atualização em segundo plano concluída.
+[11/07/2025 01:04:14] Iniciando atualização em segundo plano...
+[11/07/2025 01:04:14] Atualização em segundo plano concluída.
+[11/07/2025 01:09:14] Iniciando atualização em segundo plano...
+[11/07/2025 01:09:14] Atualização em segundo plano concluída.
+[11/07/2025 01:13:44] Tema alterado para: clam
+[11/07/2025 01:14:32] Ativo BBAS3 adicionado automaticamente à carteira (Qtd: 11.0, Preço médio: R$ 25.47)
+[11/07/2025 01:14:32] Ativo BCRI11 adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 66.60)
+[11/07/2025 01:14:32] Ativo BTLG11 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 100.00)
+[11/07/2025 01:14:32] Ativo CMIG4 adicionado automaticamente à carteira (Qtd: 10.0, Preço médio: R$ 10.87)
+[11/07/2025 01:14:32] Ativo CPFE3 adicionado automaticamente à carteira (Qtd: 12.0, Preço médio: R$ 40.53)
+[11/07/2025 01:14:32] Ativo CSMG3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 27.46)
+[11/07/2025 01:14:32] Ativo EGIE3 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 40.59)
+[11/07/2025 01:14:32] Ativo HAPV3 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 2.83)
+[11/07/2025 01:14:32] Ativo HGLG11 adicionado automaticamente à carteira (Qtd: 4.0, Preço médio: R$ 157.41)
+[11/07/2025 01:14:32] Ativo HGRE11 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 114.50)
+[11/07/2025 01:14:32] Ativo HGRU11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 124.61)
+[11/07/2025 01:14:32] Ativo KNCR11 adicionado automaticamente à carteira (Qtd: 6.0, Preço médio: R$ 104.12)
+[11/07/2025 01:14:32] Ativo LWSA3F adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 4.16)
+[11/07/2025 01:14:32] Ativo MELK3 adicionado automaticamente à carteira (Qtd: 12.0, Preço médio: R$ 3.32)
+[11/07/2025 01:14:32] Ativo MXRF11 adicionado automaticamente à carteira (Qtd: 14.0, Preço médio: R$ 9.38)
+[11/07/2025 01:14:32] Ativo NEOE3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 24.90)
+[11/07/2025 01:14:32] Ativo ODPV3 adicionado automaticamente à carteira (Qtd: 3.0, Preço médio: R$ 11.61)
+[11/07/2025 01:14:32] Ativo POSI3 adicionado automaticamente à carteira (Qtd: 7.0, Preço médio: R$ 4.43)
+[11/07/2025 01:14:32] Ativo PRIO3 adicionado automaticamente à carteira (Qtd: 7.0, Preço médio: R$ 43.49)
+[11/07/2025 01:14:32] Ativo PSSA3 adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 53.63)
+[11/07/2025 01:14:32] Ativo RECR11 adicionado automaticamente à carteira (Qtd: 3.0, Preço médio: R$ 83.90)
+[11/07/2025 01:14:32] Ativo RECT11 adicionado automaticamente à carteira (Qtd: 17.0, Preço médio: R$ 38.39)
+[11/07/2025 01:14:32] Ativo ROMI3 adicionado automaticamente à carteira (Qtd: 5.0, Preço médio: R$ 9.04)
+[11/07/2025 01:14:32] Ativo SMTO3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 19.36)
+[11/07/2025 01:14:32] Ativo UGPA3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 17.28)
+[11/07/2025 01:14:32] Ativo VALE3 adicionado automaticamente à carteira (Qtd: 2.0, Preço médio: R$ 51.24)
+[11/07/2025 01:14:32] Ativo VILG11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 84.65)
+[11/07/2025 01:14:32] Ativo VISC11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 104.00)
+[11/07/2025 01:14:32] Ativo VOO adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 1712.00)
+[11/07/2025 01:14:32] Ativo WEGE3 adicionado automaticamente à carteira (Qtd: 8.0, Preço médio: R$ 41.85)
+[11/07/2025 01:14:32] Ativo XPML11 adicionado automaticamente à carteira (Qtd: 1.0, Preço médio: R$ 103.19)
+[11/07/2025 01:14:32] 31 ativos adicionados automaticamente à carteira após importação.
+[11/07/2025 01:14:36] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:14:37] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:14:38] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:14:40] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:14:41] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:14:42] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:14:44] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:14:44] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:14:45] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:14:48] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:14:53] Dados importados de JSON: ('C:/Users/Pedro/Downloads/carteira_atual.json',)
+[11/07/2025 01:14:53] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:14:54] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:14:54] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:14:55] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:14:55] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:14:56] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:14:57] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:14:58] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:14:58] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:15:00] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:18:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:18:44] Atualização em segundo plano concluída.
+[11/07/2025 01:18:54] Alerta: BBAS3 teve variação de -100.00%!
+[11/07/2025 01:18:55] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:18:55] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:18:56] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:18:57] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:18:57] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:18:58] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:18:59] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:18:59] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:19:00] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:21:36] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:21:37] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:21:38] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:21:39] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:21:39] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:21:40] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:21:40] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:21:41] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:21:41] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:21:42] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:21:45] Cotações atualizadas.
+[11/07/2025 01:23:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:23:44] Atualização em segundo plano concluída.
+[11/07/2025 01:23:44] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:23:45] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:23:45] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:23:46] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:23:47] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:23:47] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:23:48] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:23:48] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:23:49] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:23:50] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:28:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:28:44] Atualização em segundo plano concluída.
+[11/07/2025 01:28:44] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:28:45] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:28:46] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:28:47] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:28:47] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:28:48] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:28:48] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:28:49] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:28:49] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:28:50] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:33:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:33:44] Atualização em segundo plano concluída.
+[11/07/2025 01:33:44] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:33:45] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:33:46] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:33:47] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:33:47] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:33:47] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:33:48] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:33:49] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:33:49] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:33:50] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:38:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:38:44] Atualização em segundo plano concluída.
+[11/07/2025 01:38:44] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:38:45] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:38:46] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:38:47] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:38:47] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:38:48] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:38:48] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:38:49] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:38:49] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:38:50] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:43:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:43:44] Atualização em segundo plano concluída.
+[11/07/2025 01:43:45] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:43:46] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:43:46] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:43:48] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:43:48] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:43:49] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:43:50] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:43:50] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:43:51] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:43:52] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:48:44] Iniciando atualização em segundo plano...
+[11/07/2025 01:48:44] Atualização em segundo plano concluída.
+[11/07/2025 01:48:44] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:48:45] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:48:46] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:48:47] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:48:47] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:48:48] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:48:48] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:48:49] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:48:49] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:48:50] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:53:38] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:53:39] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:53:39] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:53:40] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:53:41] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:53:41] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:53:42] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:53:43] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:53:43] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:53:45] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 01:53:46] Tema alterado para: clam
+[11/07/2025 01:58:46] Iniciando atualização em segundo plano...
+[11/07/2025 01:58:46] Atualização em segundo plano concluída.
+[11/07/2025 01:58:46] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 01:58:47] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 01:58:47] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 01:58:49] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 01:58:49] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 01:58:50] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 01:58:50] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 01:58:51] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 01:58:51] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 01:58:53] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:03:46] Iniciando atualização em segundo plano...
+[11/07/2025 02:03:46] Atualização em segundo plano concluída.
+[11/07/2025 02:03:46] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:03:47] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:03:47] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:03:48] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:03:48] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:03:49] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:03:50] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:03:50] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:03:50] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:03:51] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:08:46] Iniciando atualização em segundo plano...
+[11/07/2025 02:08:46] Atualização em segundo plano concluída.
+[11/07/2025 02:08:46] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:08:47] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:08:47] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:08:48] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:08:48] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:08:49] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:08:50] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:08:50] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:08:51] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:08:52] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:11:50] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:11:50] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:11:51] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:11:52] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:11:52] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:11:53] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:11:54] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:11:54] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:11:55] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:11:57] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:11:57] Tema alterado para: clam
+[11/07/2025 02:15:46] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:15:47] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:15:47] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:15:48] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:15:48] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:15:49] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:15:50] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:15:50] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:15:51] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:15:53] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:15:53] Tema alterado para: clam
+[11/07/2025 02:20:53] Iniciando atualização em segundo plano...
+[11/07/2025 02:20:53] Atualização em segundo plano concluída.
+[11/07/2025 02:20:54] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:20:54] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:20:55] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:20:56] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:20:56] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:20:57] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:20:58] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:20:58] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:20:58] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:21:00] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:27:29] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:27:30] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:27:30] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:27:31] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:27:31] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:27:32] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:27:33] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:27:34] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:27:34] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:27:36] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:27:37] Tema alterado para: clam
+[11/07/2025 02:32:37] Iniciando atualização em segundo plano...
+[11/07/2025 02:32:37] Atualização em segundo plano concluída.
+[11/07/2025 02:32:37] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:32:38] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:32:38] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:32:39] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:32:40] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:32:41] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:32:42] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:32:42] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:32:42] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:32:44] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:33:29] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:33:30] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:33:30] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:33:31] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:33:31] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:33:32] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:33:33] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:33:33] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:33:34] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:33:36] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:33:36] Tema alterado para: clam
+[11/07/2025 02:46:09] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:46:10] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:46:11] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:46:12] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:46:12] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:46:13] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:46:13] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:46:14] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:46:14] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:46:17] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:46:17] Tema alterado para: clam
+[11/07/2025 02:51:17] Iniciando atualização em segundo plano...
+[11/07/2025 02:51:17] Atualização em segundo plano concluída.
+[11/07/2025 02:51:17] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:51:18] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:51:19] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:51:20] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:51:20] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:51:21] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:51:21] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:51:22] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:51:22] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:51:24] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:55:35] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:55:36] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:55:36] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:55:37] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:55:37] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:55:38] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:55:39] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:55:39] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:55:40] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:55:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:55:42] Cotações atualizadas.
+[11/07/2025 02:55:48] Relatórios Excel e PDF gerados com sucesso.
+[11/07/2025 02:55:51] Processo de atualização e geração de relatórios concluído.
+[11/07/2025 02:55:53] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:55:54] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:55:55] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:55:55] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:55:56] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:55:56] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:55:57] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:55:57] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:55:58] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:55:59] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:56:01] Cotações atualizadas.
+[11/07/2025 02:56:17] Iniciando atualização em segundo plano...
+[11/07/2025 02:56:17] Atualização em segundo plano concluída.
+[11/07/2025 02:56:17] Alerta: BBAS3 teve variação de -16.73%!
+[11/07/2025 02:56:18] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:56:19] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:56:20] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:56:20] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:56:21] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:56:21] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:56:22] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:56:22] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:56:23] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:57:12] Alerta: BBAS3 teve variação de -24.30%!
+[11/07/2025 02:57:13] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:57:13] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:57:14] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:57:14] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:57:15] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:57:16] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:57:16] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:57:17] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:57:18] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:57:23] Alerta: BBAS3 teve variação de -24.30%!
+[11/07/2025 02:57:24] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:57:25] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:57:26] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:57:26] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:57:27] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:57:28] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:57:28] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:57:29] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:57:30] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 02:57:34] Cotações atualizadas.
+[11/07/2025 02:59:06] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 02:59:07] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 02:59:07] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 02:59:08] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 02:59:09] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 02:59:09] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 02:59:10] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 02:59:10] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 02:59:11] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 02:59:12] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:01:17] Iniciando atualização em segundo plano...
+[11/07/2025 03:01:17] Atualização em segundo plano concluída.
+[11/07/2025 03:01:18] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:01:18] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:01:19] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:01:20] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:01:20] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:01:21] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:01:22] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:01:22] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:01:23] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:01:24] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:05:23] Volatilidade de HAPV3: 0.0000
+[11/07/2025 03:05:26] Beta de HAPV3 vs ^BVSP: 0.0000
+[11/07/2025 03:05:33] Volatilidade de EGIE3: 0.0000
+[11/07/2025 03:05:36] Beta de EGIE3 vs ^BVSP: 0.0000
+[11/07/2025 03:05:42] Volatilidade de EGIE3: 0.0000
+[11/07/2025 03:05:46] Beta de EGIE3 vs ^BVSP: 0.0000
+[11/07/2025 03:16:41] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:16:42] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:16:43] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:16:44] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:16:44] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:16:44] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:16:45] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:16:46] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:16:46] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:16:48] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:16:49] Tema alterado para: clam
+[11/07/2025 03:21:49] Iniciando atualização em segundo plano...
+[11/07/2025 03:21:49] Atualização em segundo plano concluída.
+[11/07/2025 03:21:49] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:21:50] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:21:50] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:21:51] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:21:51] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:21:52] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:21:53] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:21:53] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:21:54] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:21:56] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:26:49] Iniciando atualização em segundo plano...
+[11/07/2025 03:26:49] Atualização em segundo plano concluída.
+[11/07/2025 03:26:49] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:26:50] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:26:50] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:26:51] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:26:51] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:26:52] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:26:53] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:26:53] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:26:54] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:26:55] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:30:26] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:30:27] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:30:27] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:30:28] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:30:28] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:30:29] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:30:30] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:30:30] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:30:31] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:30:33] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:30:33] Tema alterado para: clam
+[11/07/2025 03:31:21] Volatilidade de BBAS3: 0.2303
+[11/07/2025 03:31:25] Beta de BBAS3 vs ^BVSP: 0.7740
+[11/07/2025 03:34:47] Volatilidade de BBAS3: 0.2303
+[11/07/2025 03:35:33] Beta de BBAS3 vs ^BVSP: 0.7740
+[11/07/2025 03:35:33] Iniciando atualização em segundo plano...
+[11/07/2025 03:35:34] Atualização em segundo plano concluída.
+[11/07/2025 03:35:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:35:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:35:36] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:35:38] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:35:38] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:35:39] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:35:40] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:35:40] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:35:41] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:35:43] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:40:34] Iniciando atualização em segundo plano...
+[11/07/2025 03:40:34] Atualização em segundo plano concluída.
+[11/07/2025 03:40:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:40:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:40:35] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:40:36] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:40:36] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:40:37] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:40:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:40:38] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:40:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:40:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:45:34] Iniciando atualização em segundo plano...
+[11/07/2025 03:45:34] Atualização em segundo plano concluída.
+[11/07/2025 03:45:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:45:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:45:35] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:45:36] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:45:36] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:45:38] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:45:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:45:39] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:45:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:45:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:50:34] Iniciando atualização em segundo plano...
+[11/07/2025 03:50:34] Atualização em segundo plano concluída.
+[11/07/2025 03:50:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:50:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:50:35] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:50:36] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:50:36] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:50:37] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:50:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:50:38] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:50:38] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:50:39] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 03:55:34] Iniciando atualização em segundo plano...
+[11/07/2025 03:55:34] Atualização em segundo plano concluída.
+[11/07/2025 03:55:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 03:55:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 03:55:36] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 03:55:38] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 03:55:38] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 03:55:39] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 03:55:40] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 03:55:41] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 03:55:41] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 03:55:43] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:00:34] Iniciando atualização em segundo plano...
+[11/07/2025 04:00:34] Atualização em segundo plano concluída.
+[11/07/2025 04:00:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:00:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:00:35] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:00:36] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:00:36] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:00:37] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:00:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:00:38] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:00:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:00:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:05:34] Iniciando atualização em segundo plano...
+[11/07/2025 04:05:34] Atualização em segundo plano concluída.
+[11/07/2025 04:05:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:05:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:05:36] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:05:37] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:05:37] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:05:38] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:05:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:05:39] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:05:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:05:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:08:25] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:08:26] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:08:26] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:08:27] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:08:27] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:08:28] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:08:29] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:08:29] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:08:30] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:08:31] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:08:31] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:08:31] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:08:32] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:08:32] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:08:32] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:08:32] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:08:32] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:08:33] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:08:33] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:08:33] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:08:39] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:08:43] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:08:44] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:08:45] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:08:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:08:46] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:08:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:08:47] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:08:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:08:48] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:08:49] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:10:34] Iniciando atualização em segundo plano...
+[11/07/2025 04:10:34] Atualização em segundo plano concluída.
+[11/07/2025 04:10:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:10:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:10:35] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:10:36] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:10:36] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:10:37] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:10:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:10:38] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:10:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:10:39] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:15:34] Iniciando atualização em segundo plano...
+[11/07/2025 04:15:34] Atualização em segundo plano concluída.
+[11/07/2025 04:15:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:15:35] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:15:35] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:15:36] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:15:36] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:15:37] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:15:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:15:38] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:15:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:15:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:25:17] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:25:18] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:25:19] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:25:20] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:25:21] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:25:22] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:25:23] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:25:24] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:25:24] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:25:28] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:25:28] Tema alterado para: clam
+[11/07/2025 04:27:42] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:27:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:27:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:27:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:27:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:27:45] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:27:46] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:27:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:27:47] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:27:49] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:27:49] Tema alterado para: clam
+[11/07/2025 04:32:23] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:32:23] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:32:24] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:32:25] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:32:25] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:32:26] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:32:27] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:32:27] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:32:28] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:32:30] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:32:31] Tema alterado para: clam
+[11/07/2025 04:34:08] Projeção Linear realizada para 5 anos com taxa de 10.00%
+[11/07/2025 04:37:31] Iniciando atualização em segundo plano...
+[11/07/2025 04:37:31] Atualização em segundo plano concluída.
+[11/07/2025 04:37:31] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:37:32] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:37:33] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:37:33] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:37:34] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:37:34] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:37:35] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:37:35] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:37:36] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:37:38] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:41:46] Projeção Linear realizada para 5 anos com taxa de 10.00%
+[11/07/2025 04:42:31] Iniciando atualização em segundo plano...
+[11/07/2025 04:42:31] Atualização em segundo plano concluída.
+[11/07/2025 04:42:31] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:42:32] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:42:32] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:42:33] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:42:33] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:42:34] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:42:35] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:42:35] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:42:36] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:42:37] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:44:11] Projeção Linear realizada para 5 anos com taxa de 10.00%
+[11/07/2025 04:46:05] Projeção Linear realizada para 5 anos com taxa de 10.00%
+[11/07/2025 04:47:31] Iniciando atualização em segundo plano...
+[11/07/2025 04:47:31] Atualização em segundo plano concluída.
+[11/07/2025 04:47:31] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:47:32] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:47:32] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:47:33] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:47:33] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:47:34] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:47:35] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:47:35] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:47:36] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:47:36] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:49:27] Simulação de Monte Carlo realizada com 1000 simulações e 252 dias.
+[11/07/2025 04:50:17] Simulação de Monte Carlo realizada com 1000 simulações e 500 dias.
+[11/07/2025 04:51:20] Simulação de Monte Carlo realizada com 1000 simulações e 1000 dias.
+[11/07/2025 04:52:04] Simulação de Monte Carlo realizada com 1000 simulações e 500 dias.
+[11/07/2025 04:52:31] Iniciando atualização em segundo plano...
+[11/07/2025 04:52:31] Atualização em segundo plano concluída.
+[11/07/2025 04:52:32] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:52:33] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:52:34] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:52:35] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:52:35] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:52:37] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:52:38] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:52:38] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:52:39] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:52:40] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:53:39] Simulação de Monte Carlo realizada com 1000 simulações e 500 dias.
+[11/07/2025 04:56:03] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:56:03] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:56:04] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:56:05] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:56:05] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:56:06] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:56:06] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:56:07] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:56:07] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:56:08] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:56:10] Cotações atualizadas.
+[11/07/2025 04:57:31] Iniciando atualização em segundo plano...
+[11/07/2025 04:57:31] Atualização em segundo plano concluída.
+[11/07/2025 04:57:31] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:57:32] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:57:33] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:57:33] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:57:34] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:57:34] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:57:35] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:57:36] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:57:36] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:57:37] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:59:46] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 04:59:47] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 04:59:47] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 04:59:48] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 04:59:48] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 04:59:49] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 04:59:50] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 04:59:50] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 04:59:51] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 04:59:53] Alerta: VOO teve variação de -100.00%!
+[11/07/2025 04:59:53] Tema alterado para: clam
+[11/07/2025 05:00:33] Ativo VOO excluído.
+[11/07/2025 05:00:34] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 05:00:36] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:00:37] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:00:38] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:00:38] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:00:40] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:00:41] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:00:42] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:00:43] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:04:53] Iniciando atualização em segundo plano...
+[11/07/2025 05:04:53] Atualização em segundo plano concluída.
+[11/07/2025 05:04:54] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 05:04:54] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:04:55] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:04:56] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:04:56] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:04:57] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:04:58] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:04:58] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:04:58] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:08:43] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 05:08:43] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:08:44] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:08:45] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:08:45] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:08:46] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:08:47] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:08:47] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:08:48] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:08:50] Cotações atualizadas.
+[11/07/2025 05:09:18] Simulação de Monte Carlo realizada com 1000 simulações e 500 dias.
+[11/07/2025 05:09:53] Iniciando atualização em segundo plano...
+[11/07/2025 05:09:53] Atualização em segundo plano concluída.
+[11/07/2025 05:09:53] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 05:09:54] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:09:55] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:09:56] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:09:56] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:09:57] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:09:57] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:09:58] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:09:59] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:13:22] Volatilidade de BBAS3: 0.2303
+[11/07/2025 05:13:24] Beta de BBAS3 vs ^BVSP: 0.7740
+[11/07/2025 05:13:58] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 05:13:59] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:14:00] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:14:01] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:14:01] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:14:02] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:14:03] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:14:03] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:14:04] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:14:04] Tema alterado para: clam
+[11/07/2025 05:14:17] Volatilidade de BBAS3: 0.2303
+[11/07/2025 05:14:19] Beta de BBAS3 vs ^BVSP: 0.7740
+[11/07/2025 05:16:31] Alerta: BBAS3 teve variação de -22.59%!
+[11/07/2025 05:16:32] Alerta: CPFE3 teve variação de -5.75%!
+[11/07/2025 05:16:33] Alerta: HAPV3 teve variação de 1069.96%!
+[11/07/2025 05:16:34] Alerta: LWSA3F teve variação de -6.73%!
+[11/07/2025 05:16:34] Alerta: MELK3 teve variação de 5.42%!
+[11/07/2025 05:16:35] Alerta: POSI3 teve variação de 7.45%!
+[11/07/2025 05:16:36] Alerta: RECT11 teve variação de -17.19%!
+[11/07/2025 05:16:36] Alerta: SMTO3 teve variação de -11.73%!
+[11/07/2025 05:16:36] Alerta: VALE3 teve variação de 7.88%!
+[11/07/2025 05:16:37] Tema alterado para: clam
+[11/07/2025 05:17:41] Volatilidade de BBAS3: 0.2303
+[11/07/2025 05:17:44] Beta de BBAS3 vs ^BVSP: 0.7740
+[11/07/2025 05:18:05] Volatilidade de BCRI11: 0.1681
+[11/07/2025 05:18:26] Beta de BCRI11 vs ^BVSP: 0.1533
