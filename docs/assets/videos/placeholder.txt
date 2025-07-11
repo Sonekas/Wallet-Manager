@@ -1,0 +1,23 @@
+Esta pasta deve conter os vídeos demonstrativos do Portfolio Manager:
+
+VÍDEOS NECESSÁRIOS:
+- portfolio-manager-demo.mp4 (Vídeo principal em MP4)
+- portfolio-manager-demo.webm (Versão alternativa em WebM - opcional)
+
+ESPECIFICAÇÕES DO VÍDEO:
+- Resolução: 1080p (1920x1080)
+- Frame rate: 30fps
+- Duração: 3-5 minutos
+- Formato: MP4 (H.264) + WebM (opcional)
+- Qualidade: Alta, com áudio claro
+
+CONTEÚDO SUGERIDO:
+1. Abertura do aplicativo (2-3 segundos)
+2. Cadastro de um ativo (30-45 segundos)
+3. Visualização de gráficos (30 segundos)
+4. Configuração de alertas (30 segundos)
+5. Geração de relatório (30-45 segundos)
+6. Análise de risco (30 segundos)
+
+O vídeo será reproduzido na seção "Demo Video" da página.
+

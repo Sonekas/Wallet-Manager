@@ -1,0 +1,26 @@
+Esta pasta deve conter as seguintes imagens do Portfolio Manager:
+
+IMAGENS PRINCIPAIS (para seção Features):
+- main-interface.png (Interface principal - hero)
+- risk-analysis.png (Análise de risco)
+- alerts-system.png (Sistema de alertas)
+- price-charts.png (Gráficos de preços)
+- projections.png (Projeções e simulações)
+- reports.png (Relatórios gerados)
+- backup-system.png (Sistema de backup)
+
+SCREENSHOTS DETALHADOS (para galeria):
+- screenshot-main-dashboard.png (Dashboard principal)
+- screenshot-asset-registration.png (Cadastro de ativos)
+- screenshot-transactions.png (Gerenciamento de transações)
+- screenshot-risk-analysis.png (Análise de risco detalhada)
+- screenshot-price-history.png (Histórico de preços)
+- screenshot-events-calendar.png (Calendário de eventos)
+
+OUTROS:
+- video-thumbnail.png (Thumbnail do vídeo demonstrativo)
+
+Resolução recomendada: 1200x800px (mínimo) para imagens principais
+Screenshots: 1920x1080px (recomendado)
+Formato: PNG (preferível) ou JPG
+

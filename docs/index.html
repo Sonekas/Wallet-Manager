@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallet Manager - Controle Profissional de Carteira de Investimentos</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-brand">
+                <i class="fas fa-chart-line"></i>
+                <span>Wallet Manager</span>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link">Início</a></li>
+                <li><a href="#features" class="nav-link">Funcionalidades</a></li>
+                <li><a href="#screenshots" class="nav-link">Screenshots</a></li>
+                <li><a href="#demo-video" class="nav-link">Demo</a></li>
+                <li><a href="#download" class="nav-link">Download</a></li>
+            </ul>
+            <div class="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-background">
+            <div class="hero-particles"></div>
+        </div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <i class="fas fa-star"></i>
+                    <span>Aplicação Desktop Completa</span>
+                </div>
+                <h1 class="hero-title">
+                    Controle Total da Sua
+                    <span class="gradient-text">Carteira de Investimentos</span>
+                </h1>
+                <p class="hero-description">
+                    Uma aplicação desktop profissional desenvolvida em Python para gerenciar seus investimentos
+                    com análise de risco avançada, projeções futuras, alertas inteligentes e relatórios detalhados.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#download" class="btn btn-primary">
+                        <i class="fas fa-download"></i>
+                        Download Gratuito
+                    </a>
+                    <a href="#demo-video" class="btn btn-secondary">
+                        <i class="fas fa-play"></i>
+                        Ver Demonstração
+                    </a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">100%</span>
+                        <span class="stat-label">Gratuito</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">15+</span>
+                        <span class="stat-label">Funcionalidades</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">0</span>
+                        <span class="stat-label">Dependências Online</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">Python</span>
+                        <span class="stat-label">Tecnologia</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-image">
+                <!-- Placeholder para imagem principal do aplicativo -->
+                <div class="app-preview">
+                    <img src="assets/images/main-interface.png" alt="Interface Principal do Wallet Manager"
+                        class="main-screenshot">
+                    <div class="preview-overlay">
+                        <div class="play-button">
+                            <i class="fas fa-play"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Funcionalidades Avançadas</h2>
+                <p class="section-description">
+                    Tudo que você precisa para gerenciar seus investimentos de forma profissional
+                </p>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card" data-feature="risk-analysis">
+                    <div class="feature-icon">
+                        <i class="fas fa-chart-area"></i>
+                    </div>
+                    <h3>Análise de Risco Avançada</h3>
+                    <p>Calcule volatilidade, Beta, correlações e outras métricas de risco para tomar decisões mais
+                        informadas sobre seus investimentos.</p>
+                    <div class="feature-preview">
+                        <img src="assets/images/risk-analysis.png" alt="Análise de Risco" class="feature-image">
+                    </div>
+                </div>
+
+                <div class="feature-card" data-feature="alerts">
+                    <div class="feature-icon">
+                        <i class="fas fa-bell"></i>
+                    </div>
+                    <h3>Alertas Inteligentes</h3>
+                    <p>Configure alertas personalizados para preços-alvo, variações percentuais e eventos importantes
+                        dos seus ativos.</p>
+                    <div class="feature-preview">
+                        <img src="assets/images/alerts-system.png" alt="Sistema de Alertas" class="feature-image">
+                    </div>
+                </div>
+
+                <div class="feature-card" data-feature="charts">
+                    <div class="feature-icon">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <h3>Gráficos e Histórico</h3>
+                    <p>Visualize gráficos de evolução dos preços, compare com benchmarks e acompanhe o desempenho
+                        histórico detalhado.</p>
+                    <div class="feature-preview">
+                        <img src="assets/images/price-charts.png" alt="Gráficos de Preços" class="feature-image">
+                    </div>
+                </div>
+
+                <div class="feature-card" data-feature="projections">
+                    <div class="feature-icon">
+                        <i class="fas fa-crystal-ball"></i>
+                    </div>
+                    <h3>Projeções e Simulações</h3>
+                    <p>Simulações Monte Carlo e projeções lineares para planejar o futuro da sua carteira com diferentes
+                        cenários.</p>
+                    <div class="feature-preview">
+                        <img src="assets/images/projections.png" alt="Projeções Futuras" class="feature-image">
+                    </div>
+                </div>
+
+                <div class="feature-card" data-feature="reports">
+                    <div class="feature-icon">
+                        <i class="fas fa-file-export"></i>
+                    </div>
+                    <h3>Relatórios Profissionais</h3>
+                    <p>Gere relatórios detalhados em Excel e PDF com análises completas da sua carteira para
+                        acompanhamento e declarações.</p>
+                    <div class="feature-preview">
+                        <img src="assets/images/reports.png" alt="Relatórios Gerados" class="feature-image">
+                    </div>
+                </div>
+
+                <div class="feature-card" data-feature="backup">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Backup e Segurança</h3>
+                    <p>Mantenha seus dados seguros com backup automático, exportação/importação e restauração do banco
+                        de dados.</p>
+                    <div class="feature-preview">
+                        <img src="assets/images/backup-system.png" alt="Sistema de Backup" class="feature-image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Screenshots Gallery -->
+    <section id="screenshots" class="screenshots">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Interface em Ação</h2>
+                <p class="section-description">
+                    Veja como o Portfolio Manager funciona na prática com capturas de tela reais
+                </p>
+            </div>
+
+            <div class="screenshots-grid">
+                <div class="screenshot-item" data-category="main">
+                    <img src="assets/images/screenshot-main-dashboard.png" alt="Dashboard Principal"
+                        class="screenshot-image">
+                    <div class="screenshot-overlay">
+                        <h4>Dashboard Principal</h4>
+                        <p>Visão geral da carteira com todos os ativos e rentabilidade</p>
+                    </div>
+                </div>
+
+                <div class="screenshot-item" data-category="registration">
+                    <img src="assets/images/screenshot-asset-registration.png" alt="Cadastro de Ativos"
+                        class="screenshot-image">
+                    <div class="screenshot-overlay">
+                        <h4>Cadastro de Ativos</h4>
+                        <p>Interface para adicionar novos investimentos à carteira</p>
+                    </div>
+                </div>
+
+                <div class="screenshot-item" data-category="transactions">
+                    <img src="assets/images/screenshot-transactions.png" alt="Gerenciamento de Transações"
+                        class="screenshot-image">
+                    <div class="screenshot-overlay">
+                        <h4>Transações</h4>
+                        <p>Registro completo de compras, vendas e dividendos</p>
+                    </div>
+                </div>
+
+                <div class="screenshot-item" data-category="analysis">
+                    <img src="assets/images/screenshot-risk-analysis.png" alt="Análise de Risco Detalhada"
+                        class="screenshot-image">
+                    <div class="screenshot-overlay">
+                        <h4>Análise de Risco</h4>
+                        <p>Métricas avançadas de volatilidade e correlação</p>
+                    </div>
+                </div>
+
+                <div class="screenshot-item" data-category="charts">
+                    <img src="assets/images/screenshot-price-history.png" alt="Histórico de Preços"
+                        class="screenshot-image">
+                    <div class="screenshot-overlay">
+                        <h4>Histórico de Preços</h4>
+                        <p>Gráficos interativos de evolução dos ativos</p>
+                    </div>
+                </div>
+
+                <div class="screenshot-item" data-category="calendar">
+                    <img src="assets/images/screenshot-events-calendar.png" alt="Calendário de Eventos"
+                        class="screenshot-image">
+                    <div class="screenshot-overlay">
+                        <h4>Calendário de Eventos</h4>
+                        <p>Acompanhe dividendos e eventos importantes</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Video Section -->
+    <section id="demo-video" class="demo-video">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Veja o Wallet Manager em Ação</h2>
+                <p class="section-description">
+                    Demonstração completa das principais funcionalidades do aplicativo
+                </p>
+            </div>
+
+            <div class="video-container">
+                <div class="video-wrapper">
+                    <!-- Placeholder para vídeo demonstrativo -->
+                    <video controls poster="assets/images/video-thumbnail.png" class="demo-video-player">
+                        <source src="assets/videos/carteira-manager-demo.mp4" type="video/mp4">
+                        <source src="assets/videos/carteira-manager-demo.webm" type="video/webm">
+                        Seu navegador não suporta o elemento de vídeo.
+                    </video>
+                    <div class="video-overlay">
+                        <div class="play-button-large">
+                            <i class="fas fa-play"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-info">
+                    <h3>Demonstração Completa</h3>
+                    <p>Vídeo de 5 minutos mostrando:</p>
+                    <ul>
+                        <li>Cadastro de ativos e transações</li>
+                        <li>Análise de risco em tempo real</li>
+                        <li>Geração de relatórios</li>
+                        <li>Configuração de alertas</li>
+                        <li>Visualização de gráficos</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Technology Section -->
+    <section class="technology">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Tecnologia Confiável</h2>
+                <p class="section-description">
+                    Desenvolvido com as melhores tecnologias para garantir performance e confiabilidade
+                </p>
+            </div>
+
+            <div class="tech-grid">
+                <div class="tech-item">
+                    <i class="fab fa-python"></i>
+                    <span>Python 3.11+</span>
+                    <small>Linguagem principal</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-desktop"></i>
+                    <span>Tkinter</span>
+                    <small>Interface gráfica</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-database"></i>
+                    <span>SQLite</span>
+                    <small>Banco de dados</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-chart-bar"></i>
+                    <span>Matplotlib</span>
+                    <small>Gráficos e visualizações</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-table"></i>
+                    <span>Pandas</span>
+                    <small>Análise de dados</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-cloud-download-alt"></i>
+                    <span>yfinance</span>
+                    <small>Cotações em tempo real</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-file-excel"></i>
+                    <span>OpenPyXL</span>
+                    <small>Relatórios Excel</small>
+                </div>
+                <div class="tech-item">
+                    <i class="fas fa-file-pdf"></i>
+                    <span>ReportLab</span>
+                    <small>Relatórios PDF</small>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section id="download" class="download">
+        <div class="container">
+            <div class="download-content">
+                <h2 class="download-title">Pronto para Começar?</h2>
+                <p class="download-description">
+                    Baixe agora e tenha controle total sobre seus investimentos
+                </p>
+                <div class="download-options">
+                    <div class="download-card">
+                        <div class="download-icon">
+                            <i class="fab fa-windows"></i>
+                        </div>
+                        <h3>Windows</h3>
+                        <p>Executável (.exe) pronto para usar</p>
+                        <a href="#" class="btn btn-primary btn-large">
+                            <i class="fas fa-download"></i>
+                            Download Windows
+                        </a>
+                        <small>Compatível com Windows 10/11</small>
+                    </div>
+
+                    <div class="download-card">
+                        <div class="download-icon">
+                            <i class="fab fa-github"></i>
+                        </div>
+                        <h3>Código Fonte</h3>
+                        <p>Repositório completo no GitHub</p>
+                        <a href="#" class="btn btn-secondary btn-large">
+                            <i class="fab fa-github"></i>
+                            Ver no GitHub
+                        </a>
+                        <small>Open Source - Licença MIT</small>
+                    </div>
+                </div>
+
+                <div class="download-info">
+                    <div class="info-item">
+                        <i class="fas fa-check"></i>
+                        <span>100% Gratuito e Open Source</span>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-check"></i>
+                        <span>Sem necessidade de instalação</span>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-check"></i>
+                        <span>Funciona completamente offline</span>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-check"></i>
+                        <span>Dados armazenados localmente</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Wallet Manager</span>
+                </div>
+                <p class="footer-description">
+                    Desenvolvido com ❤️ para ajudar investidores a gerenciar suas carteiras de forma profissional.
+                    Uma ferramenta completa, gratuita e de código aberto.
+                </p>
+                <div class="footer-links">
+                    <a href="#" class="footer-link" title="GitHub">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="#" class="footer-link" title="Documentação">
+                        <i class="fas fa-book"></i>
+                    </a>
+                    <a href="#" class="footer-link" title="Suporte">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                </div>
+                <div class="footer-bottom">
+                    <p>&copy; 2024 Wallet Manager. Licenciado sob MIT License.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Image Modal -->
+    <div id="imageModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img class="modal-image" id="modalImage">
+            <div class="modal-caption" id="modalCaption"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
